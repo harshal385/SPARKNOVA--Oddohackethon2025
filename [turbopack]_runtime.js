@@ -1,4 +1,4 @@
-const RUNTIME_PUBLIC_PATH = "build/chunks/[turbopack]_runtime.js";
+const RUNTIME_PUBLIC_PATH = "server/chunks/[turbopack]_runtime.js";
 const RELATIVE_ROOT_PATH = "..";
 const ASSET_PREFIX = "/";
 /**
