@@ -1,3 +1,3 @@
 {
-  "/(home)/questions/[id]/page": "app/(home)/questions/[id]/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }
